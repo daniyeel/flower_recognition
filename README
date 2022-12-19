@@ -1,15 +1,19 @@
-The Python code in this repository is able to recognize a list of 7 type of flowers with an accuracy of ~80%. The pictures used in the train en test sets are taken by myself using my iPhone 13. When shooting the pictures, there were some requirements before adding them to my train and test sets, namely:
+The Python code in this repository is able to recognize a list of 7 type of flowers with an accuracy of ~80%. 
+
+The pictures used in the train and test sets are taken by myself using my iPhone 13. 
+
+When shooting the pictures, there were some requirements before adding them to my train and test sets, namely:
 - Each test set of a type of flower must contain at least 6 images.
 - The flowers can't overlap, since these can cause problems finding the contours.
 - A maximum of one type of flower per image. The program will give the correct result, yet it will only look at the flower with the biggest area.
 
 The type of flowers used are:
-- Ellen Houston
-- Harlequin
-- Dahlia 'Izarra'
-- Dahlia 'Wink'
-- Dahlia 'Zinnia'
-- Dahlia 'Bishop of York'
-- Rudbeckia Fulgida.
+1. Ellen Houston
+2. Harlequin
+3. Dahlia 'Izarra'
+4. Dahlia 'Wink'
+5. Dahlia 'Zinnia'
+6. Dahlia 'Bishop of York'
+7. Rudbeckia Fulgida.
 
 
