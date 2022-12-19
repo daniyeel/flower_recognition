@@ -1,4 +1,5 @@
-The Python code in this repository is able to recognize a list of 7 type of flowers with an accuracy of ~80%. The pictures used in the train en test sets are taken by myself using my iPhone 13. 
+The Python code in this repository is able to recognize a list of 7 type of flowers with an accuracy of ~80%. 
+The pictures used in the train en test sets are taken by myself using my iPhone 13. 
 
 The type of flowers used are:
 - Ellen Houston
