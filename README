@@ -1,10 +1,9 @@
 The Python code in this repository is able to recognize a list of 7 type of flowers with an accuracy of ~80%. The type of flowers used are:
-
-1. Ellen Houston
-2. Harlequin
-3. Dahlia 'Izarra'
-4. Dahlia 'Wink'
-5. Dahlia 'Zinnia'
-6. Dahlia 'Bishop of York'
-7. Rudbeckia Fulgida.
+- Ellen Houston
+- Harlequin
+- Dahlia 'Izarra'
+- Dahlia 'Wink'
+- Dahlia 'Zinnia'
+- Dahlia 'Bishop of York'
+- Rudbeckia Fulgida.
 
