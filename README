@@ -1,4 +1,4 @@
-The Python code in this repository is able to recognize a list of 7 type of flowers with an accuracy of ~80%. 
+The Python code in this repository is able to recognize a list of 7 type of flowers with an accuracy of ~80% using KNN. 
 
 The pictures used in the train and test sets are taken by myself using my iPhone 13. 
 
