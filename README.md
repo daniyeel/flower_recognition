@@ -8,7 +8,7 @@ A computer vision pipeline for classifying 7 flower species from smartphone phot
 
 ## Overview
 
-This project takes raw flower photos, extracts a set of hand-crafted visual features via OpenCV, and feeds them into a KNN classifier. No deep learning — just image processing fundamentals: colour statistics, texture (LBP), contour analysis, and shape detection.
+This project takes raw flower photos, extracts a set of hand-crafted visual features via OpenCV, and feeds them into a KNN classifier. No deep learning, just image processing fundamentals: colour statistics, texture (LBP), contour analysis, and shape detection.
 
 ### Supported Species
 
